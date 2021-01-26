@@ -1,0 +1,19 @@
+body {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,121,83,1) 35%, rgba(0,212,255,1) 100%);
+    text-align: center;
+}
+
+asH3 {
+    font-size: 72px;
+    background: -webkit-linear-gradient(rgb(207, 12, 12), #333);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  asH4 {
+    font-size: 72px;
+    background: -webkit-linear-gradient(rgb(207, 12, 12), #333);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
